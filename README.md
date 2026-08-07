@@ -101,9 +101,22 @@ Download the dataset and place the following files inside the `data` folder:
 
 ## 📷 Screenshots
 
-(Add screenshots of your application here.)
+### Home Page
 
----
+![Home Page](screenshots/home.png)
+
+### Real News Prediction
+
+![Real Prediction](screenshots/real_prediction.png)
+
+### Fake News Prediction
+
+![Fake Prediction](screenshots/fake_prediction.png)
+
+### Related News
+
+![Related News](screenshots/related_news.png)
+
 
 ## 📌 Future Improvements
 
